@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "rasulfirestar",
   "version": "1.0.0",
   "description": "",
@@ -11,7 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rasul1782000/RasulFirestar.git"
-=======
   "name": "firestar-backend",
   "version": "1.0.0",
   "main": "index.js",
