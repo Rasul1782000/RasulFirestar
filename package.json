@@ -1,36 +1,26 @@
 {
-  "name": "rasulfirestar",
+  "name": "firestar-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
+    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rasul1782000/RasulFirestar.git"
-  "name": "firestar-backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js",
-    "build": "your-build-command-here",  // Replace with your actual build command"build": "react-scripts build",  // Replace with your actual build command 
-"test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 1cd7920 (Add build script to package.json)
+    "url": "https://github.com/Rasul1782000/RasulFirestar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "bugs": {
     "url": "https://github.com/Rasul1782000/RasulFirestar/issues"
   },
   "homepage": "https://github.com/Rasul1782000/RasulFirestar#readme",
-=======
-  "description": "",
->>>>>>> 1cd7920 (Add build script to package.json)
   "dependencies": {
     "express": "^4.21.0"
   }
 }
+
